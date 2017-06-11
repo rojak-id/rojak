@@ -1,0 +1,4 @@
+[submodule "rojak-twitter-stream"]
+	path = rojak-twitter-stream
+	url = git@github.com:rojak-id/rojak-twitter-stream.git
+	ignore = all
