@@ -2,3 +2,7 @@
 	path = rojak-twitter-stream
 	url = git@github.com:rojak-id/rojak-twitter-stream.git
 	ignore = all
+[submodule "rojak-web-ui"]
+	path = rojak-web-ui
+	url = git@github.com:rojak-id/rojak-web-ui.git
+	ignore = all
