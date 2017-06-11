@@ -10,3 +10,7 @@
 	path = rojak-pantau
 	url = git@github.com:rojak-id/rojak-pantau.git
 	ignore = all
+[submodule "rojak-api"]
+	path = rojak-api
+	url = git@github.com:rojak-id/rojak-api.git
+	ignore = all
