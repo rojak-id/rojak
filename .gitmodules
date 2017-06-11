@@ -14,3 +14,7 @@
 	path = rojak-api
 	url = git@github.com:rojak-id/rojak-api.git
 	ignore = all
+[submodule "rojak-analyzer"]
+	path = rojak-analyzer
+	url = git@github.com:rojak-id/rojak-analyzer.git
+	ignore = all
