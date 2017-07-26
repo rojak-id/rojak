@@ -1,0 +1,20 @@
+[submodule "rojak-twitter-stream"]
+	path = rojak-twitter-stream
+	url = git@github.com:rojak-id/rojak-twitter-stream.git
+	ignore = all
+[submodule "rojak-web-ui"]
+	path = rojak-web-ui
+	url = git@github.com:rojak-id/rojak-web-ui.git
+	ignore = all
+[submodule "rojak-pantau"]
+	path = rojak-pantau
+	url = git@github.com:rojak-id/rojak-pantau.git
+	ignore = all
+[submodule "rojak-api"]
+	path = rojak-api
+	url = git@github.com:rojak-id/rojak-api.git
+	ignore = all
+[submodule "rojak-analyzer"]
+	path = rojak-analyzer
+	url = git@github.com:rojak-id/rojak-analyzer.git
+	ignore = all
